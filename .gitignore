@@ -1,0 +1,59 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Experimental outputs (regenerate from scripts)
+results/
+results_supplementary/
+figures/
+predictive_modeling_results/
+*.png
+*.pdf
+
+# Manuscript drafts and internal working files (NEVER commit)
+*.docx
+*.doc
+manuscript*
+revised_manuscript*
+paper2_*
+task1_*
+task2_*
+ai_detection_*
+*_draft.*
+*_internal.*
