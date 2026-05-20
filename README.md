@@ -132,7 +132,7 @@ If you use this code, please cite the manuscript (citation to be updated upon pu
 
 ```bibtex
 @article{kaya2026complexity,
-  author  = {Kaya, Sami},
+  author  = {Kaya, Sami},{Ünlü, Ramazan}
   title   = {Estimating Classification Difficulty from Data Complexity:
              An Algorithm-Agnostic Meta-Regression Framework},
   journal = {Mathematics},
